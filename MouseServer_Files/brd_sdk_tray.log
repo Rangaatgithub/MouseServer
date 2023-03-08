@@ -1,0 +1,8 @@
+Bright SDK logger
+Build version: 1.358.215
+OS version: Microsoft Windows NT 6.2.9200.0
+Timezone: Pacific Standard Time
+Process: 4544
+2023.03.07 20:19:39.248 lum_sdk/tray ALLWAYS logger file initialized: brd_sdk_tray.log
+2023.03.07 20:19:39.577 brightdata/CarrierAppController NOTICE partner_app.dat not found
+2023.03.07 20:19:39.706 sdk/sbie_bridge NOTICE client (win_wifimouse.necta.us_brightdata): connected
